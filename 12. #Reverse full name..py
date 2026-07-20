@@ -13,6 +13,7 @@ print("Now,reverse form will be :" ,end="")
 print(reverse)
 
 """
+Explenatation:
 The Key Insight
 This code reverses a name by splitting words → reversing list order → rejoining. The [::-1] is Python slice notation meaning "start at end, go backwards, step -1" — it reverses a list in one compact expression.
 
